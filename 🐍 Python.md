@@ -8,7 +8,7 @@ Sure! I’ve edited and polished your document to match the style you wanted—k
 
 ### **Python Template Engines**
 
-* [🔹 Jinja2](#🔹-jinja2)
+| 🔹 Jinja2  |
 * [🔹 Mako](#🔹-mako)
 * [🔹 Django Templates](#🔹-django-templates)
 * [🔹 Tornado](#🔹-tornado)
