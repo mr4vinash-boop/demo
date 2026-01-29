@@ -8,15 +8,15 @@ Sure! I’ve edited and polished your document to match the style you wanted—k
 
 ### **Python Template Engines**
 
-- [🔹 JINJA2](##🔹-JINJA2)
-- [🔹 Mako](##🔹-mako)
-- [🔹 Django Templates](#🔹-django-templates)
-- [🔹 Tornado](#🔹-tornado)
-- [🔹 Genshi](#🔹-genshi)
-- [🔹 Cheetah](#🔹-cheetah)
-- [🔹 Jinja (Legacy)](#🔹-jinja-legacy)
-- [🔹 Chameleon](#🔹-chameleon)
-- [🔹 MyPy Template](#🔹-mypy-template)
+* [🔹 Jinja2](#🔹-jinja2)
+* [🔹 Mako](#🔹-mako)
+* [🔹 Django Templates](#🔹-django-templates)
+* [🔹 Tornado](#🔹-tornado)
+* [🔹 Genshi](#🔹-genshi)
+* [🔹 Cheetah](#🔹-cheetah)
+* [🔹 Jinja (Legacy)](#🔹-jinja-legacy)
+* [🔹 Chameleon](#🔹-chameleon)
+* [🔹 MyPy Template](#🔹-mypy-template)
 
 ---
 
